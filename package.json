@@ -1,0 +1,12 @@
+{
+  "name": "playwright-sum-qa",
+  "version": "1.0.0",
+  "description": "QA automation with Playwright",
+  "main": "sum-tables.js",
+  "scripts": {
+    "start": "node sum-tables.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
